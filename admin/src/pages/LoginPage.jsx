@@ -76,9 +76,7 @@ const LoginPage = () => {
       <div className="w-full max-w-md">
         {/* Logo Section */}
         <div className="text-center mb-6">
-          <div className="bg-white p-3 rounded-md shadow-lg inline-block mb-4 transform hover:scale-105 transition-transform duration-300">
-            <img src={logo} alt="logo" className="w-20" />
-          </div>
+         
           <h1 className="text-3xl font-bold text-gray-800 mb-2">
             Welcome Back
           </h1>
