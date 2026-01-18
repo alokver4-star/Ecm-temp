@@ -148,7 +148,7 @@ const Login = ({ setToken }) => {
         {/* Footer */}
         <div className="text-center mt-6">
           <p className="text-sm text-gray-500">
-            © 2025 Admin Dashboard. All rights reserved.
+            © 2026 Admin Dashboard. All rights reserved.
           </p>
         </div>
       </div>
